@@ -35,9 +35,9 @@ export default defineConfig({
         items: [
           { text: 'Search', link: '/posts/search' },
           { text: 'FAQs', link: '/other/FAQ' },
-          { text: 'Bookmarks', link: 'https://github.com/fmhy/bookmarks' },
-          { text: 'SafeGuard', link: 'https://github.com/fmhy/FMHY-SafeGuard' },
-          { text: 'Startpage', link: 'https://fmhy.net/startpage' },
+          { text: 'Bookmarks', link: 'https://github.com/hichamtach/bookmarks' },
+          { text: 'SafeGuard', link: 'https://github.com/hichamtach/free-media-hub-safeguard' },
+          { text: 'Startpage', link: '/startpage' },
           { text: 'Selfhosting', link: '/other/selfhosting' },
           { text: 'Wallpapers', link: '/other/wallpapers' },
           { text: 'Feedback', link: '/feedback' },
@@ -105,7 +105,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Made with ❤',
-      copyright: '© 2026, Estd 2018. This site does not host any files.',
+      copyright: '© 2026 Free Media Hub. This site does not host any files.',
     },
   },
 })
