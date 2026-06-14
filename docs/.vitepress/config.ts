@@ -35,8 +35,8 @@ export default defineConfig({
         items: [
           { text: 'Search', link: '/posts/search' },
           { text: 'FAQs', link: '/other/FAQ' },
-          { text: 'Bookmarks', link: 'https://github.com/hichamtach/bookmarks' },
-          { text: 'SafeGuard', link: 'https://github.com/hichamtach/free-media-hub-safeguard' },
+          { text: 'Bookmarks', link: 'https://github.com/Hichamtach/bookmarks' },
+          { text: 'SafeGuard', link: 'https://github.com/Hichamtach/free-media-hub-safeguard' },
           { text: 'Startpage', link: '/startpage' },
           { text: 'Selfhosting', link: '/other/selfhosting' },
           { text: 'Wallpapers', link: '/other/wallpapers' },
@@ -101,7 +101,7 @@ export default defineConfig({
       },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/hichamtach/free-media-hub' },
+      { icon: 'github', link: 'https://github.com/Hichamtach/free-media-hub' },
     ],
     footer: {
       message: 'Made with ❤',
